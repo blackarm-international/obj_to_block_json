@@ -12,16 +12,6 @@ if (len(sys.argv) != 2):
     print("")
     exit()
 
-headers = {"Content-Type": "application/json", "Accept": "application/json"}
-try:
-    with open("config.json", "r") as config:
-        credentials = json.load(config)
-        user = credentials['USERNAME']
-        pwd = credentials['PASSWORD']
-        url = credentials['URL']
-except:
-    print("unable to load config file")
-    exit()
 try:
     with open(sys.argv[1], "r") as snow:
         snow_data = json.load(snow)
