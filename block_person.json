@@ -1,32 +1,3 @@
-block_person.obj
-block_person.mtl
-{'red': 0.380056, 'green': 0.07932, 'blue': 0.0}
-{'red': 0.288301, 'green': 0.288301, 'blue': 0.288301}
-{'red': 0.288301, 'green': 0.288301, 'blue': 0.288301}
-{'red': 0.060721, 'green': 0.060721, 'blue': 0.060721}
-{'red': 0.060721, 'green': 0.060721, 'blue': 0.060721}
-{'red': 0.005981, 'green': 0.005981, 'blue': 0.005981}
-{'red': 0.005981, 'green': 0.005981, 'blue': 0.005981}
-{'red': 0.005981, 'green': 0.005981, 'blue': 0.005981}
-{'red': 0.73, 'green': 0.426692, 'blue': 0.308035}
-{'red': 0.73, 'green': 0.426692, 'blue': 0.308035}
-{'red': 0.73, 'green': 0.426692, 'blue': 0.308035}
-{'red': 0.73, 'green': 0.426692, 'blue': 0.308035}
-{'red': 1.0, 'green': 1.0, 'blue': 1.0}
-{'red': 0.031893, 'green': 0.039609, 'blue': 0.263273}
-{'red': 1.0, 'green': 1.0, 'blue': 1.0}
-{'red': 0.031893, 'green': 0.039609, 'blue': 0.263273}
-{'red': 0.380056, 'green': 0.07932, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.380056, 'green': 0.07932, 'blue': 0.0}
-{'red': 0.380056, 'green': 0.07932, 'blue': 0.0}
-{'red': 0.380056, 'green': 0.07932, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
-{'red': 0.0, 'green': 0.0, 'blue': 0.0}
 [
     {
         "u_block_blue": 0.0,
@@ -37,13 +8,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9969975,
-        "u_x_size": 0.47163699999999986,
-        "u_y_center": -5.070759000000001,
-        "u_y_size": 0.06732199999999988,
-        "u_z_center": 1.556031,
-        "u_z_size": 0.104236
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.997,
+        "u_x_size": 0.472,
+        "u_y_center": -5.071,
+        "u_y_size": 0.067,
+        "u_z_center": 1.556,
+        "u_z_size": 0.104
     },
     {
         "u_block_blue": 0.288301,
@@ -54,13 +25,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.884258,
-        "u_x_size": 0.22102000000000022,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.0550905,
-        "u_z_size": 0.110179
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.884,
+        "u_x_size": 0.221,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.055,
+        "u_z_size": 0.11
     },
     {
         "u_block_blue": 0.288301,
@@ -71,13 +42,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.112311999999999,
-        "u_x_size": 0.21586999999999978,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.0550905,
-        "u_z_size": 0.110179
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.112,
+        "u_x_size": 0.216,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.055,
+        "u_z_size": 0.11
     },
     {
         "u_block_blue": 0.060721,
@@ -88,13 +59,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.884258,
-        "u_x_size": 0.22102000000000022,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.47664700000000004,
-        "u_z_size": 0.732934
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.884,
+        "u_x_size": 0.221,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.477,
+        "u_z_size": 0.733
     },
     {
         "u_block_blue": 0.060721,
@@ -105,13 +76,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.112311999999999,
-        "u_x_size": 0.21586999999999978,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.47664700000000004,
-        "u_z_size": 0.732934
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.112,
+        "u_x_size": 0.216,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.477,
+        "u_z_size": 0.733
     },
     {
         "u_block_blue": 0.005981,
@@ -122,13 +93,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9969975,
-        "u_x_size": 0.44649899999999976,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 1.145627,
-        "u_z_size": 0.605026
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.997,
+        "u_x_size": 0.446,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 1.146,
+        "u_z_size": 0.605
     },
     {
         "u_block_blue": 0.005981,
@@ -139,13 +110,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.6579205,
-        "u_x_size": 0.21243299999999987,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 1.3331205000000002,
-        "u_z_size": 0.23003899999999988
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.658,
+        "u_x_size": 0.212,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 1.333,
+        "u_z_size": 0.23
     },
     {
         "u_block_blue": 0.005981,
@@ -156,13 +127,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.336297,
-        "u_x_size": 0.21288200000000046,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 1.3331205000000002,
-        "u_z_size": 0.23003899999999988
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.336,
+        "u_x_size": 0.213,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 1.333,
+        "u_z_size": 0.23
     },
     {
         "u_block_blue": 0.308035,
@@ -173,13 +144,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.6579205,
-        "u_x_size": 0.21243299999999987,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.971176,
-        "u_z_size": 0.4938500000000001
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.658,
+        "u_x_size": 0.212,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.971,
+        "u_z_size": 0.494
     },
     {
         "u_block_blue": 0.308035,
@@ -190,13 +161,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.336297,
-        "u_x_size": 0.21288200000000046,
-        "u_y_center": -5.143791500000001,
-        "u_y_size": 0.22102299999999975,
-        "u_z_center": 0.971176,
-        "u_z_size": 0.4938500000000001
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.336,
+        "u_x_size": 0.213,
+        "u_y_center": -5.144,
+        "u_y_size": 0.221,
+        "u_z_center": 0.971,
+        "u_z_size": 0.494
     },
     {
         "u_block_blue": 0.308035,
@@ -207,13 +178,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9969975,
-        "u_x_size": 0.44649899999999976,
-        "u_y_center": -5.1437915,
-        "u_y_size": 0.44204299999999996,
-        "u_z_center": 1.6895120000000001,
-        "u_z_size": 0.48274400000000006
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.997,
+        "u_x_size": 0.446,
+        "u_y_center": -5.144,
+        "u_y_size": 0.442,
+        "u_z_center": 1.69,
+        "u_z_size": 0.483
     },
     {
         "u_block_blue": 0.308035,
@@ -224,13 +195,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9954405,
-        "u_x_size": 0.0942050000000001,
-        "u_y_center": -4.917965000000001,
-        "u_y_size": 0.009609999999999452,
-        "u_z_center": 1.6013644999999999,
-        "u_z_size": 0.04473499999999997
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.995,
+        "u_x_size": 0.094,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
+        "u_z_center": 1.601,
+        "u_z_size": 0.045
     },
     {
         "u_block_blue": 1.0,
@@ -241,13 +212,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.88262,
-        "u_x_size": 0.11221799999999993,
-        "u_y_center": -4.912003500000001,
-        "u_y_size": 0.0023130000000000095,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.883,
+        "u_x_size": 0.112,
+        "u_y_center": -4.912,
+        "u_y_size": 0.002,
         "u_z_center": 1.662,
-        "u_z_size": 0.05731599999999992
+        "u_z_size": 0.057
     },
     {
         "u_block_blue": 0.263273,
@@ -258,13 +229,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.8826205,
-        "u_x_size": 0.05610899999999974,
-        "u_y_center": -4.90969,
-        "u_y_size": 0.0023140000000001493,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.883,
+        "u_x_size": 0.056,
+        "u_y_center": -4.91,
+        "u_y_size": 0.002,
         "u_z_center": 1.662,
-        "u_z_size": 0.05731599999999992
+        "u_z_size": 0.057
     },
     {
         "u_block_blue": 1.0,
@@ -275,13 +246,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.108252,
-        "u_x_size": 0.11221800000000037,
-        "u_y_center": -4.912003500000001,
-        "u_y_size": 0.0023130000000000095,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.108,
+        "u_x_size": 0.112,
+        "u_y_center": -4.912,
+        "u_y_size": 0.002,
         "u_z_center": 1.662,
-        "u_z_size": 0.05731599999999992
+        "u_z_size": 0.057
     },
     {
         "u_block_blue": 0.263273,
@@ -292,13 +263,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.108252500000001,
-        "u_x_size": 0.056109000000000187,
-        "u_y_center": -4.90969,
-        "u_y_size": 0.0023140000000001493,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.108,
+        "u_x_size": 0.056,
+        "u_y_center": -4.91,
+        "u_y_size": 0.002,
         "u_z_center": 1.662,
-        "u_z_size": 0.05731599999999992
+        "u_z_size": 0.057
     },
     {
         "u_block_blue": 0.0,
@@ -309,13 +280,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9969975,
-        "u_x_size": 0.47163699999999986,
-        "u_y_center": -5.0059275,
-        "u_y_size": 0.19698499999999974,
-        "u_z_center": 1.3933870000000002,
-        "u_z_size": 0.22105200000000003
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.997,
+        "u_x_size": 0.472,
+        "u_y_center": -5.006,
+        "u_y_size": 0.197,
+        "u_z_center": 1.393,
+        "u_z_size": 0.221
     },
     {
         "u_block_blue": 0.0,
@@ -326,13 +297,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.8826384999999997,
-        "u_x_size": 0.13645899999999989,
-        "u_y_center": -4.917965000000001,
-        "u_y_size": 0.009609999999999452,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.883,
+        "u_x_size": 0.136,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
         "u_z_center": 1.662,
-        "u_z_size": 0.07424200000000014
+        "u_z_size": 0.074
     },
     {
         "u_block_blue": 0.0,
@@ -343,13 +314,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.108252500000001,
-        "u_x_size": 0.13642299999999974,
-        "u_y_center": -4.9179655,
-        "u_y_size": 0.009610999999999592,
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.108,
+        "u_x_size": 0.136,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
         "u_z_center": 1.662,
-        "u_z_size": 0.07424200000000014
+        "u_z_size": 0.074
     },
     {
         "u_block_blue": 0.0,
@@ -360,13 +331,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9969975,
-        "u_x_size": 0.15110499999999982,
-        "u_y_center": -5.0059275,
-        "u_y_size": 0.19698499999999974,
-        "u_z_center": 1.5615990000000002,
-        "u_z_size": 0.02934199999999998
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.997,
+        "u_x_size": 0.151,
+        "u_y_center": -5.006,
+        "u_y_size": 0.197,
+        "u_z_center": 1.562,
+        "u_z_size": 0.029
     },
     {
         "u_block_blue": 0.0,
@@ -377,13 +348,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9346275,
-        "u_x_size": 0.026365000000000194,
-        "u_y_center": -5.0059275,
-        "u_y_size": 0.19698499999999974,
-        "u_z_center": 1.5254215,
-        "u_z_size": 0.04301699999999986
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.935,
+        "u_x_size": 0.026,
+        "u_y_center": -5.006,
+        "u_y_size": 0.197,
+        "u_z_center": 1.525,
+        "u_z_size": 0.043
     },
     {
         "u_block_blue": 0.0,
@@ -394,13 +365,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.0593675000000005,
-        "u_x_size": 0.026364999999999306,
-        "u_y_center": -5.0059275,
-        "u_y_size": 0.19698499999999974,
-        "u_z_center": 1.525421,
-        "u_z_size": 0.043018
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.059,
+        "u_x_size": 0.026,
+        "u_y_center": -5.006,
+        "u_y_size": 0.197,
+        "u_z_center": 1.525,
+        "u_z_size": 0.043
     },
     {
         "u_block_blue": 0.0,
@@ -411,13 +382,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.7940785,
-        "u_x_size": 0.04066100000000006,
-        "u_y_center": -4.917965000000001,
-        "u_y_size": 0.009609999999999452,
-        "u_z_center": 1.692689,
-        "u_z_size": 0.012864000000000209
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.794,
+        "u_x_size": 0.041,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
+        "u_z_center": 1.693,
+        "u_z_size": 0.013
     },
     {
         "u_block_blue": 0.0,
@@ -428,13 +399,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.1983555,
-        "u_x_size": 0.04378299999999946,
-        "u_y_center": -4.9179655,
-        "u_y_size": 0.009610999999999592,
-        "u_z_center": 1.692689,
-        "u_z_size": 0.012864000000000209
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.198,
+        "u_x_size": 0.044,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
+        "u_z_center": 1.693,
+        "u_z_size": 0.013
     },
     {
         "u_block_blue": 0.0,
@@ -445,13 +416,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -4.224867,
-        "u_x_size": 0.009240000000000137,
-        "u_y_center": -5.033465,
-        "u_y_size": 0.24060999999999932,
-        "u_z_center": 1.692689,
-        "u_z_size": 0.012864000000000209
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -4.225,
+        "u_x_size": 0.009,
+        "u_y_center": -5.033,
+        "u_y_size": 0.241,
+        "u_z_center": 1.693,
+        "u_z_size": 0.013
     },
     {
         "u_block_blue": 0.0,
@@ -462,13 +433,13 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.7691280000000003,
-        "u_x_size": 0.009239999999999693,
-        "u_y_center": -5.033465,
-        "u_y_size": 0.24060999999999932,
-        "u_z_center": 1.692689,
-        "u_z_size": 0.012864000000000209
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.769,
+        "u_x_size": 0.009,
+        "u_y_center": -5.033,
+        "u_y_size": 0.241,
+        "u_z_center": 1.693,
+        "u_z_size": 0.013
     },
     {
         "u_block_blue": 0.0,
@@ -479,12 +450,12 @@ block_person.mtl
         "u_line_blue": 0.0,
         "u_line_green": 0.0,
         "u_line_red": 0.0,
-        "u_room_name": "test_room",
-        "u_x_center": -3.9954705,
-        "u_x_size": 0.08920100000000009,
-        "u_y_center": -4.9179655,
-        "u_y_size": 0.009610999999999592,
-        "u_z_center": 1.692689,
-        "u_z_size": 0.012864000000000209
+        "u_room_name": "LON1-2-23",
+        "u_x_center": -3.995,
+        "u_x_size": 0.089,
+        "u_y_center": -4.918,
+        "u_y_size": 0.01,
+        "u_z_center": 1.693,
+        "u_z_size": 0.013
     }
 ]

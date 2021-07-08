@@ -1,1 +1,1 @@
-# obj_to_block_json
+python3 obj_to_block_json.py block_person.obj LON1-2-23 > block_person.json

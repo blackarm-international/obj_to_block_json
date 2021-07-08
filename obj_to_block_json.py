@@ -11,8 +11,6 @@ if (len(sys.argv) != 3):
 
 file_name_obj = sys.argv[1]
 file_name_mtl = file_name_obj.replace("obj","mtl")
-print(file_name_obj)
-print(file_name_mtl)
 # process materials
 materials = {}
 with open(file_name_mtl) as fp:
@@ -86,7 +84,6 @@ with open(file_name_obj) as fp:
                     reading = False
                     material_name = line.split(" ")[1].replace("\n","")
                     if (material_name in materials):
-                        print(materials[material_name])
                         red = materials[material_name]['red']
                         green = materials[material_name]['green']
                         blue = materials[material_name]['blue']
@@ -100,14 +97,13 @@ with open(file_name_obj) as fp:
                         "u_line_green": 0.0,
                         "u_line_red": 0.0,
                         "u_room_name": sys.argv[2],
-                        "u_x_center": (xmin + xmax) * 0.5,
-                        "u_x_size": xmax - xmin,
-                        "u_y_center": (ymin + ymax) * 0.5,
-                        "u_y_size": ymax - ymin,
-                        "u_z_center": (zmin + zmax) * 0.5,
-                        "u_z_size": zmax - zmin
+                        "u_x_center": round((xmin + xmax) * 0.5, 4),
+                        "u_x_size": round(xmax - xmin, 4),
+                        "u_y_center": round((ymin + ymax) * 0.5, 4),
+                        "u_y_size": round(ymax - ymin, 4),
+                        "u_z_center": round((zmin + zmax) * 0.5, 4),
+                        "u_z_size": round(zmax - zmin, 4)
                     })
                 line = fp.readline()
         line = fp.readline()
 print(json.dumps(blocklist, indent=4, sort_keys=True))
-# print(json.dumps(materials, indent=4, sort_keys=True))
